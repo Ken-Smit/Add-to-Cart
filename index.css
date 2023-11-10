@@ -15,7 +15,7 @@ html, body {
 }
 
 img {
-    width: 150px;
+    width: 300px;
     margin: 0 auto;
 }
 
@@ -43,7 +43,7 @@ button {
 }
 
 button:hover {
-    background-color: #432000;
+    background-color: #11ce04;
     cursor: pointer;
 }
 
